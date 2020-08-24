@@ -1,0 +1,5 @@
+C:\Users\axe21\Desktop\Program_repository\Bank System\ExeptionLibrary\bin\Debug\ExeptionLibrary.dll
+C:\Users\axe21\Desktop\Program_repository\Bank System\ExeptionLibrary\bin\Debug\ExeptionLibrary.pdb
+C:\Users\axe21\Desktop\Program_repository\Bank System\ExeptionLibrary\obj\Debug\ExeptionLibrary.dll
+C:\Users\axe21\Desktop\Program_repository\Bank System\ExeptionLibrary\obj\Debug\ExeptionLibrary.pdb
+C:\Users\axe21\Desktop\Program_repository\Bank System\ExeptionLibrary\obj\Debug\ExeptionLibrary.csprojAssemblyReference.cache

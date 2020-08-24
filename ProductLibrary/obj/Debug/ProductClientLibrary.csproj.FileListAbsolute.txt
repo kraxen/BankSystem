@@ -1,0 +1,4 @@
+C:\Users\axe21\Desktop\Program_repository\Bank System\ProductLibrary\bin\Debug\ProductLibrary.dll
+C:\Users\axe21\Desktop\Program_repository\Bank System\ProductLibrary\bin\Debug\ProductLibrary.pdb
+C:\Users\axe21\Desktop\Program_repository\Bank System\ProductLibrary\obj\Debug\ProductLibrary.dll
+C:\Users\axe21\Desktop\Program_repository\Bank System\ProductLibrary\obj\Debug\ProductLibrary.pdb

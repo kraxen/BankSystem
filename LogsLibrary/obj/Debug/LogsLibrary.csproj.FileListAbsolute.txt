@@ -1,0 +1,18 @@
+C:\Users\axe21\Desktop\Program_repository\Bank System\LogsLibrary\bin\Debug\LogsLibrary.dll
+C:\Users\axe21\Desktop\Program_repository\Bank System\LogsLibrary\bin\Debug\LogsLibrary.pdb
+C:\Users\axe21\Desktop\Program_repository\Bank System\LogsLibrary\obj\Debug\LogsLibrary.dll
+C:\Users\axe21\Desktop\Program_repository\Bank System\LogsLibrary\obj\Debug\LogsLibrary.pdb
+C:\Users\axe21\Desktop\Program_repository\Bank System\LogsLibrary\obj\Debug\LogsLibrary.csprojAssemblyReference.cache
+C:\Users\axe21\Desktop\Program_repository\Bank System\LogsLibrary\bin\Debug\Seriolization.dll
+C:\Users\axe21\Desktop\Program_repository\Bank System\LogsLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\axe21\Desktop\Program_repository\Bank System\LogsLibrary\bin\Debug\Seriolization.pdb
+C:\Users\axe21\Desktop\Program_repository\Bank System\LogsLibrary\obj\Debug\LogsLibrary.csproj.CopyComplete
+C:\Users\axe21\Desktop\Program_repository\BankSystem\LogsLibrary\bin\Debug\LogsLibrary.dll
+C:\Users\axe21\Desktop\Program_repository\BankSystem\LogsLibrary\bin\Debug\LogsLibrary.pdb
+C:\Users\axe21\Desktop\Program_repository\BankSystem\LogsLibrary\bin\Debug\Seriolization.dll
+C:\Users\axe21\Desktop\Program_repository\BankSystem\LogsLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\axe21\Desktop\Program_repository\BankSystem\LogsLibrary\bin\Debug\Seriolization.pdb
+C:\Users\axe21\Desktop\Program_repository\BankSystem\LogsLibrary\obj\Debug\LogsLibrary.csprojAssemblyReference.cache
+C:\Users\axe21\Desktop\Program_repository\BankSystem\LogsLibrary\obj\Debug\LogsLibrary.csproj.CopyComplete
+C:\Users\axe21\Desktop\Program_repository\BankSystem\LogsLibrary\obj\Debug\LogsLibrary.dll
+C:\Users\axe21\Desktop\Program_repository\BankSystem\LogsLibrary\obj\Debug\LogsLibrary.pdb

@@ -1,0 +1,14 @@
+C:\Users\axe21\Desktop\Program_repository\Seriolization\bin\Debug\Seriolization.dll
+C:\Users\axe21\Desktop\Program_repository\Seriolization\bin\Debug\Seriolization.pdb
+C:\Users\axe21\Desktop\Program_repository\Seriolization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\axe21\Desktop\Program_repository\Seriolization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\axe21\Desktop\Program_repository\Seriolization\obj\Debug\Seriolization.csproj.CopyComplete
+C:\Users\axe21\Desktop\Program_repository\Seriolization\obj\Debug\Seriolization.dll
+C:\Users\axe21\Desktop\Program_repository\Seriolization\obj\Debug\Seriolization.pdb
+C:\Users\axe21\Desktop\Program_repository\Seriolization\obj\Debug\Seriolization.csprojAssemblyReference.cache
+C:\Users\axe21\Desktop\Program_repository\Bank System\Seriolization\bin\Debug\Seriolization.dll
+C:\Users\axe21\Desktop\Program_repository\Bank System\Seriolization\bin\Debug\Seriolization.pdb
+C:\Users\axe21\Desktop\Program_repository\Bank System\Seriolization\obj\Debug\Seriolization.csproj.CopyComplete
+C:\Users\axe21\Desktop\Program_repository\Bank System\Seriolization\obj\Debug\Seriolization.dll
+C:\Users\axe21\Desktop\Program_repository\Bank System\Seriolization\obj\Debug\Seriolization.pdb
+C:\Users\axe21\Desktop\Program_repository\Bank System\Seriolization\obj\Debug\Seriolization.csprojAssemblyReference.cache

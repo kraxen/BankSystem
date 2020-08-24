@@ -1,0 +1,51 @@
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\bin\Debug\BankSystem.exe.config
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\bin\Debug\BankSystem.exe
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\bin\Debug\BankSystem.pdb
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\obj\Debug\BankSystem.csprojAssemblyReference.cache
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\obj\Debug\MainWindow.g.cs
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\obj\Debug\App.g.cs
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\obj\Debug\BankSystem_MarkupCompile.cache
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\obj\Debug\BankSystem_MarkupCompile.lref
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\obj\Debug\MainWindow.baml
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\obj\Debug\BankSystem.g.resources
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\obj\Debug\BankSystem.Properties.Resources.resources
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\obj\Debug\BankSystem.csproj.GenerateResource.cache
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\obj\Debug\BankSystem.exe
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\obj\Debug\BankSystem.pdb
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\obj\Debug\BankSystem.csprojAssemblyReference.cache
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\obj\Debug\MainWindow.g.cs
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\obj\Debug\App.g.cs
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\obj\Debug\BankSystem_MarkupCompile.cache
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\obj\Debug\BankSystem_MarkupCompile.lref
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\obj\Debug\BankSystem.exe
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\obj\Debug\BankSystem.pdb
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\bin\Debug\BankSystem.exe.config
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\bin\Debug\BankSystem.exe
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\bin\Debug\BankSystem.pdb
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\bin\Debug\LogsLibrary.dll
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\bin\Debug\LogsLibrary.pdb
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\obj\Debug\MainWindow.baml
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\obj\Debug\BankSystem.g.resources
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\obj\Debug\BankSystem.Properties.Resources.resources
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\obj\Debug\BankSystem.csproj.GenerateResource.cache
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\obj\Debug\BankSystem.csproj.CopyComplete
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\bin\Debug\ClientRepositoryLibrary.dll
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\bin\Debug\ProductLibrary.dll
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\bin\Debug\ProductLibrary.pdb
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\bin\Debug\ExeptionLibrary.dll
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\bin\Debug\ExeptionLibrary.pdb
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\bin\Debug\Seriolization.dll
+C:\Users\axe21\Desktop\Program_repository\Bank System\BankSystem\BankSystem\bin\Debug\Seriolization.pdb
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\bin\Debug\ClientRepositoryLibrary.dll
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\bin\Debug\ExeptionLibrary.dll
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\bin\Debug\LogsLibrary.dll
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\bin\Debug\ProductLibrary.dll
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\bin\Debug\Seriolization.dll
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\bin\Debug\ExeptionLibrary.pdb
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\bin\Debug\LogsLibrary.pdb
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\bin\Debug\ProductLibrary.pdb
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\bin\Debug\Seriolization.pdb
+C:\Users\axe21\Desktop\Program_repository\BankSystem\BankSystem\obj\Debug\BankSystem.csproj.CopyComplete

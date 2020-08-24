@@ -1,0 +1,13 @@
+C:\Users\axe21\Desktop\Program_repository\Bank System\ClientRepositoryLibrary\bin\Debug\ClientRepositoryLibrary.dll
+C:\Users\axe21\Desktop\Program_repository\Bank System\ClientRepositoryLibrary\bin\Debug\ClientRepositoryLibrary.pdb
+C:\Users\axe21\Desktop\Program_repository\Bank System\ClientRepositoryLibrary\bin\Debug\ProductLibrary.dll
+C:\Users\axe21\Desktop\Program_repository\Bank System\ClientRepositoryLibrary\bin\Debug\ProductLibrary.pdb
+C:\Users\axe21\Desktop\Program_repository\Bank System\ClientRepositoryLibrary\obj\Debug\ClientRepositoryLibrary.csproj.CopyComplete
+C:\Users\axe21\Desktop\Program_repository\Bank System\ClientRepositoryLibrary\obj\Debug\ClientRepositoryLibrary.dll
+C:\Users\axe21\Desktop\Program_repository\Bank System\ClientRepositoryLibrary\obj\Debug\ClientRepositoryLibrary.pdb
+C:\Users\axe21\Desktop\Program_repository\Bank System\ClientRepositoryLibrary\bin\Debug\ExeptionLibrary.dll
+C:\Users\axe21\Desktop\Program_repository\Bank System\ClientRepositoryLibrary\bin\Debug\Seriolization.dll
+C:\Users\axe21\Desktop\Program_repository\Bank System\ClientRepositoryLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\axe21\Desktop\Program_repository\Bank System\ClientRepositoryLibrary\bin\Debug\ExeptionLibrary.pdb
+C:\Users\axe21\Desktop\Program_repository\Bank System\ClientRepositoryLibrary\bin\Debug\Seriolization.pdb
+C:\Users\axe21\Desktop\Program_repository\Bank System\ClientRepositoryLibrary\obj\Debug\ClientRepositoryLibrary.csprojAssemblyReference.cache
